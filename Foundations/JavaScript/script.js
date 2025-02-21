@@ -26,3 +26,16 @@
 // let b = +prompt("Second number?", 2);// Use + infront of prompt or + infront of a and b in alert
 
 // alert(+a + +b); // 12
+
+// let a = 1;
+// let b = 2; 
+// console.log(a + b);
+
+// a = "1";
+// console.log(a + b);	
+
+// const a = 1;
+// let b = 2; 
+// console.log(a + b);
+
+// console.log(a + b);
